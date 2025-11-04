@@ -45,6 +45,3 @@ Student at An-Najah National University
 Taught by **Eng. Zeyad Habbab** at **An-Najah National University** for the **Web Development course**.
 
 ---
-
-هيك بيظهر عندك بالـGitHub شكل أنيق، كل فقرة مضبوطة، والـMarkdown مظبوط.
-انسخ الكلام زي ما هو داخل `README.md` في جذر المشروع.
