@@ -28,7 +28,7 @@ dalouna/
 └── images/
     ├── hero.jpg
     ├── map.jpg
-    └── ...other assets
+    └── ... 
 
 ```
 
